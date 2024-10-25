@@ -6,7 +6,7 @@ First, you need to install the dependencies. You can do this by running the foll
 pip install -r requirements.txt
 ```
 
-Then, run the following command to start the export environment variables in main repo directory:
+Then, run the following command to start the export environment variables in main repo directory: 
 ```
 source .env
 ```
