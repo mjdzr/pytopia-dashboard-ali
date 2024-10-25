@@ -7,6 +7,7 @@ pip install -r requirements.txt
 ```
 
 Then, run the following command to start the export environment variables in main repo directory: 
+Majid
 ```
 source .env
 ```
